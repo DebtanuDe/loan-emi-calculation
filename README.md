@@ -15,6 +15,9 @@ The workbook is ideal for:
 * Financial reporting practice
 * Loan repayment analysis
 
+![Dashboard Preview](Dashboard.jpeg)
+
+
 ---
 
 # 🚀 Project Features
